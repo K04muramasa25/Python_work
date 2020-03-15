@@ -52,8 +52,8 @@ print(test_str.zfill(3))
 test_str = 'python-izm'
 print(test_str.startswith('python'))
 print(test_str.startswith('izm'))
-print('z', in test_str)
-print('s', in test_str)
+print('z' in test_str)
+print('s' in test_str)
 
 
 #大文字･小文字変換
