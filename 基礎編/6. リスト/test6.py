@@ -20,7 +20,7 @@ print(test_list_1)
 
 
 #インデックスを指定して追加
-test_list_1 = ['python', '-', 'izm', '.', 'com']
+test_list_1 = ['python', 'izm', 'com']
 print(test_list_1)
 print('---------------------------------')
 
